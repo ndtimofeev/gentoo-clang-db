@@ -32,9 +32,6 @@ sys-fs/mtools
 # libtool:   error: specify a tag with '--tag'
 net-voip/linphone
 
-# *** These critical programs are missing or too old: compiler
-sys-libs/glibc
-
 # "Please switch to an openmp compatible compiler"
 media-libs/opencv[openmp]
 media-gfx/blender[openmp]
@@ -49,5 +46,4 @@ sys-apps/paludis
 
 net-misc/tigervnc
 
-# sys-libs/glibc-2.22-r2
-sys-libs/glibc
+sys-libs/glibc-2.22-r2
