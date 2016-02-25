@@ -53,3 +53,6 @@ net-misc/tigervnc
 
 # unknown argument: '-mno-ieee-fp'
 media-libs/libvorbis
+
+# error: visibility does not match previous declaration
+=dev-lang/spidermonkey-1.8.5-r5
