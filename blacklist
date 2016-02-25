@@ -50,3 +50,6 @@ net-misc/tigervnc
 
 # forkexec.cc:57:23: error: variable length array of non-POD element type 'autoclose_pipe'
 =mail-mta/nullmailer-2.0
+
+# unknown argument: '-mno-ieee-fp'
+media-libs/libvorbis
