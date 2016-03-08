@@ -58,7 +58,6 @@ media-libs/libvorbis
 =dev-lang/spidermonkey-1.8.5-r5
 
 sys-cluster/ceph 
-net-analyzer/wireshark 
 
 #checking thread safety of required library functions... no
 #configure: error: thread test program failed                                                                                                                  
