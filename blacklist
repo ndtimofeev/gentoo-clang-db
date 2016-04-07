@@ -48,6 +48,7 @@ net-misc/tigervnc
 
 =sys-libs/glibc-2.22-r2
 =sys-libs/glibc-2.22-r3
+=sys-libs/glibc-2.22-r4
 
 # forkexec.cc:57:23: error: variable length array of non-POD element type 'autoclose_pipe'
 =mail-mta/nullmailer-2.0
